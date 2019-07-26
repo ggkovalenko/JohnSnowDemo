@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">JohnSnowDemo</string>
+
+    <string name="character_list_title">Characters</string>
+
+    <string name="character_name">Name</string>
+    <string name="character_gender">Gender</string>
+    <string name="character_culture">Culture</string>
+    <string name="character_died">Died</string>
+    <string name="character_titles">Titles</string>
+    <string name="character_aliases">Aliases</string>
+    <string name="character_tv_series">TV series</string>
+    <string name="character_played_by">Played by</string>
+
+</resources>
